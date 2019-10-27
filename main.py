@@ -575,7 +575,7 @@ class MainWindow(QWidget):
 app = QApplication([])
 
 font_db = QFontDatabase()
-font_db.addApplicationFont("/fonts/righteous.ttf")
+font_db.addApplicationFont("/.fonts/righteous.ttf")
 
 font = QFont('righteous')
 font.setPixelSize(20)
