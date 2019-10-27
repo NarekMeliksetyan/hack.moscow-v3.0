@@ -1,3 +1,3 @@
 # hack.moscow-v3.0
 
-heart beat sensor
+We have developed software for remote non-contact heart rate and breath measurement.
